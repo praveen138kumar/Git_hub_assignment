@@ -27,14 +27,6 @@
       <scope>test</scope>
     </dependency>
 
-    <dependency>
-      <groupId>junit1</groupId>
-      <artifactId>junit1</artifactId>
-      <version>4.12</version>
-      <scope>test1</scope>
-    </dependency>
-  </dependencies>
-
   <build>
     <finalName>Git-Hub-assignment</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
